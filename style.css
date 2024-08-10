@@ -613,7 +613,7 @@ span{
         right: 0;
         width: 50%;
         padding: 1rem 3%;
-        background: transparent;
+        background: var(--bg-color--);
         backdrop-filter: blur(20px);
         border-bottom-left-radius: 2rem;
         border-left: 2px solid var(--main-color);
